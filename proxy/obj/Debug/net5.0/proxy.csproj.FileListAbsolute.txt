@@ -1,0 +1,15 @@
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.exe
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.deps.json
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.runtimeconfig.json
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.dll
+C:\Users\Mari\source\repos\homework13\proxy\bin\Debug\net5.0\proxy.pdb
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.AssemblyInfo.cs
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.dll
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\refint\proxy.dll
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.pdb
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\proxy.genruntimeconfig.cache
+C:\Users\Mari\source\repos\homework13\proxy\obj\Debug\net5.0\ref\proxy.dll

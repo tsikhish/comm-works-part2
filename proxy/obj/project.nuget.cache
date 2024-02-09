@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHAWdk6nSugumtuxv8YAiBTUCtf9es+ptrAu6DCEe5odgC/qJDQKWvE4rUvntHRIqtilwI84MnY2JpKsWocLtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mari\\source\\repos\\homework13\\proxy\\proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mari\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

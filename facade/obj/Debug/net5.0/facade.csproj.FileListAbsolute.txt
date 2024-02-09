@@ -1,0 +1,15 @@
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.exe
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.deps.json
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.runtimeconfig.json
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.dll
+C:\Users\Mari\source\repos\homework13\facade\bin\Debug\net5.0\facade.pdb
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.AssemblyInfo.cs
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.dll
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\refint\facade.dll
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.pdb
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\facade.genruntimeconfig.cache
+C:\Users\Mari\source\repos\homework13\facade\obj\Debug\net5.0\ref\facade.dll

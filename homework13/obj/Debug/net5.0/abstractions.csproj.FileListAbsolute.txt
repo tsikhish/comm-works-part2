@@ -1,0 +1,15 @@
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.exe
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.deps.json
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.runtimeconfig.json
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.runtimeconfig.dev.json
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.dll
+C:\Users\Mari\source\repos\homework13\homework13\bin\Debug\net5.0\abstractions.pdb
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.AssemblyInfoInputs.cache
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.AssemblyInfo.cs
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.dll
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\refint\abstractions.dll
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.pdb
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\abstractions.genruntimeconfig.cache
+C:\Users\Mari\source\repos\homework13\homework13\obj\Debug\net5.0\ref\abstractions.dll
